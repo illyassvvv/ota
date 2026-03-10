@@ -10,7 +10,7 @@
       <array>
         <dict>
           <key>kind</key><string>software-package</string>
-          <key>url</key><string>https://illyassvvv.github.io/ota/apps/com-vargas-myapp/app.ipa</string>
+          <key>url</key><string>https://github.com/illyassvvv/ota/raw/refs/heads/main/apps/com-vargas-myapp/app.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
