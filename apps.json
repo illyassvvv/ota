@@ -1,0 +1,12 @@
+[
+  {
+    "name": "MyApp",
+    "bundle_id": "com.vargas.myapp",
+    "version": "2.1",
+    "slug": "com-vargas-myapp",
+    "ipa_url": "https://illyassvvv.github.io/ota/apps/com-vargas-myapp/app.ipa",
+    "manifest_url": "https://illyassvvv.github.io/ota/apps/com-vargas-myapp/manifest.plist",
+    "install_page": "https://illyassvvv.github.io/ota/apps/com-vargas-myapp/",
+    "date": "2026-03-10 20:02"
+  }
+]
